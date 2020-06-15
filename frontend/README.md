@@ -1,6 +1,8 @@
 # Frontend
 
-The frontend has being build using the VueJS framework. Nice things to be added:
+The frontend has being build using the VueJS framework. It also uses Three.js and Ammo.js. The interface is highly "inspired" by 3ds Max.
+
+Nice things to be added:
 
 - Editor: Add an orthogonal camera and screen helper to set the camera position (top, left, ...)
 - Editor: Implement spiral stamper.
