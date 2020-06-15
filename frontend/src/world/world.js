@@ -79,7 +79,7 @@ export default class {
   }
 
   tick(delta) {
-    this.physicsWorld.stepSimulation(delta, 8)
+    this.physicsWorld.stepSimulation(1 / 60, 8)
     this.group.tick(delta)
   }
 
