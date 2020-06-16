@@ -1,6 +1,9 @@
 # Frontend
 
-The frontend has being build using the VueJS framework. It also uses Three.js and Ammo.js. The interface is highly "inspired" by 3ds Max.
+The frontend has being build using the VueJS framework. It also uses Three.js and Ammo.js. The interface is highly "inspired" by 3ds Max. As my previous experiments, it has some allowances:
+
+- It has to work in Chrome. I haven't test it in any other browser.
+- It has to look fine in my screen. This means it is not web responsive and I haven't test it in other resolutions or devices.
 
 Nice things to be added:
 
